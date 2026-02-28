@@ -1,2 +1,8 @@
 print ("Ola mundo")
-input ("Ola, como você está ? ")
+bem = input ("Ola, como você está ? ")
+if bem == "bem" :
+    print ("Que bom")
+else :
+    print ("Fazer oque né")
+
+
